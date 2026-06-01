@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Tobin Petersen 👋
 
-<!--
-**CapsicumBlood/CapsicumBlood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior software developer based in Gqeberha, South Africa, 
+with qualifications in IT Systems Development (NQF 6) and a 
+background in web development, C#, Python, and SQL.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently part of a small team building a LoRa-based mesh 
+network system designed for South African farms — addressing 
+communication, environmental monitoring, and physical security 
+in areas with poor cellular coverage and frequent load shedding.
+Think off-grid smart farm infrastructure, built from the ground up.
+
+## Tech I work with
+- C# / .NET
+- Python
+- Java
+- HTML5 / CSS / JavaScript
+- SQL / MySQL
+- PHP
+- Azure / DevOps
+
+## Currently learning
+- LoRa mesh networking and embedded systems
+- .NET MAUI for cross-platform mobile/desktop development
+- Building things properly from scratch
+
+## Get in touch
+📧 tobin.petersen@gmail.com
+📍 Gqeberha, SA — open to relocation
